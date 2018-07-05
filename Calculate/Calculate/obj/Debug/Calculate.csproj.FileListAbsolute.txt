@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\GitHub\Calculate_IVT-171-Slepnev-\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Admin\Documents\GitHub\Calculate_IVT-171-Slepnev-\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\Admin\Documents\GitHub\Calculate_IVT-171-Slepnev-\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Admin\Documents\GitHub\Calculate_IVT-171-Slepnev-\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Calculate_IVT-171-Slepnev-\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Calculate_IVT-171-Slepnev-\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\Calculate_IVT-171-Slepnev-\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\Admin\Documents\GitHub\Calculate_IVT-171-Slepnev-\Calculate\Calculate\obj\Debug\Calculate.pdb
